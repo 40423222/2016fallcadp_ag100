@@ -1,0 +1,4 @@
+[submodule "scrum-3"]
+	path = scrum-3
+	url = https://github.com/scrum-3/2016fallcadp_hw
+	branch = gh-pages
