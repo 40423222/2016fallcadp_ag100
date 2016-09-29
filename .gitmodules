@@ -2,3 +2,7 @@
 	path = scrum-3
 	url = https://github.com/scrum-3/2016fallcadp_hw
 	branch = gh-pages
+[submodule "scrum-4"]
+	path = scrum-4
+	url = https://github.com/scrum-4/2016fallcadp_hw
+	branch = gh-pages
